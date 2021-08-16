@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DesmondSol
-- 👀 I’m interested in kotlin,java,c,c++,php,android app devt
+- 👋 Hi, I’m Solomon Tigabu
+- 👀 I’m interested in kotlin,java,c,c++,php,flutter,nodejs
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on mobile app projects
 - 📫 How to reach me Soltig66@gmail.com
 
 <!---
